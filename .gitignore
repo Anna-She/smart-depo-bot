@@ -1,0 +1,5 @@
+.env
+materials.db
+*.log
+__pycache__/
+*.pyc
